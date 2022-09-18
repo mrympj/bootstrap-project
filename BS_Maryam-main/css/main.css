@@ -1,0 +1,245 @@
+header {
+  width: 100%;
+}
+
+.navbar-brand {
+  width: 10%;
+}
+
+.form-control {
+  width: 40%;
+}
+
+.card {
+  border: none;
+  opacity: .8;
+}
+
+.card:hover {
+  opacity: 1;
+  transform: scale(1.1);
+  transition: .5s;
+
+}
+
+.bi:hover {
+  opacity: 1;
+  transform: scale(1.1);
+  transition: .5s;
+}
+
+.bi-bell {
+  background-color: #E8EBF4;
+
+}
+
+.description-plan {
+  width: 35%;
+  background-color: #186AA5;
+}
+
+.image {
+  position: relative;
+  z-index: 1;
+}
+
+.frame {
+  position: absolute;
+  z-index: 2;
+  top: 27%;
+  left: 13%;
+}
+
+.label-your-dream {
+  position: absolute;
+  z-index: 3;
+  top: 29%;
+  left: 15%;
+}
+
+.description-your-dream {
+  position: absolute;
+  z-index: 3;
+  top: 52%;
+  left: 15%;
+}
+
+.btn {
+  border: none;
+  color: black;
+  opacity: 79%;
+}
+
+.btn-login {
+  color: white;
+  background-color: #186AA5;
+}
+
+.btn-search-box {
+  position: absolute;
+  top: 69%;
+  left: 15%;
+}
+
+.frame-search-box {
+  position: absolute;
+  z-index: 2;
+  top: 79%;
+  left: 15%;
+  width: 64%;
+  height: 15%;
+}
+
+.title-label-search-box {
+  font-family: 'Roboto Light';
+  font-size: 110%;
+  opacity: 70%;
+}
+
+.label-search-box {
+  font-family: 'Roboto Light';
+  font-size: 110%;
+}
+
+.btn-continue {
+  color: white;
+  background-color: #186AA5;
+}
+
+.nav-link-main {
+  color: #2289FF !important;
+}
+
+.nav-link:hover {
+  color: #2289FF !important;
+  opacity: 1;
+  transform: scale(1.1);
+  transition: .5s;
+}
+
+.btn-rent {
+  position: absolute;
+  z-index: 2;
+  left: 65%;
+  top: 4.5%;
+  color: white !important;
+  background-color: #78C720;
+  width: 28%;
+}
+
+.btn-rent:hover {
+  background-color: #78C720;
+}
+
+.btn-search {
+  color: white !important;
+
+  padding-top: 1%;
+}
+
+.accordion-item {
+  border: #E8E8E8 1px !important;
+  padding: 1%;
+  margin: 2%;
+
+}
+
+.spotted-bg {
+  position: absolute;
+  top: 428%;
+  left: 42.2%;
+  z-index: -1;
+  width: 13%;
+  opacity: 70%;
+}
+
+.img-dream-apartment {
+  width: 74%;
+}
+
+.image-video {
+  position: absolute;
+  z-index: 2;
+  width: 24%;
+  left: 37%;
+  top: 467%;
+}
+
+.bi-play-fill {
+  position: absolute;
+  color: #2289FF;
+  z-index: 3;
+  top: 482%;
+  left: 47.4%;
+  background-color: white;
+  width: 40px;
+  text-align: center;
+  font-size: 1.6rem;
+
+}
+
+.label-dream-apartment {
+  color: #14395B;
+  font-family: 'Roboto Light';
+  font-size: 200%;
+}
+
+.label-dream-apartment2 {
+  color: #2289FF;
+  font-family: 'Roboto Light';
+  font-size: 200%;
+}
+
+.btn-apartment {
+  color: white;
+  background-color: #186AA5;
+}
+
+.first-footer {
+  background-color: #14395B;
+  color: white;
+}
+
+.featured-image {
+  width: 80%;
+}
+
+.featured-image-without-frame {
+  width: 54%;
+}
+
+.featured-text {
+  font-size: 90%;
+}
+
+.featured-item {
+  margin-top: 2%;
+  display: flex;
+  flex-direction: row;
+}
+
+.featured-items {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.msd {
+  height: 170px;
+  width: 170px;
+}
+
+.navbar-brand-footer {
+  width: 40%;
+}
+
+.second-footer {
+  color: white;
+  background-color: #0B2F50;
+}
+
+.Frequently-title{
+  color: #14395B;
+  font-family: 'Roboto Light';
+  font-size: 200%;
+}
